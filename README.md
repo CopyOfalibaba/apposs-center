@@ -62,15 +62,15 @@ AppOSS作为一个运维自动化平台，主要包括两个部分：Center 和 
 ##apposs\_file  
 
     说明：支持文件同步的插件
-    地址：https://github.com/taobao/apposs_file
+    地址：https://github.com/alibaba/apposs_file
 
 ##apposs\_simple\_adapter  
 
     说明：简单的适配插件，用于示例
-    地址：https://github.com/taobao/apposs_simple_adapter
+    地址：https://github.com/alibaba/apposs_simple_adapter
 
 ##apposs\_agent  
 
     说明：负责下发和执行指令脚本的并发客户端
-    地址：https://github.com/taobao/apposs_agent
+    地址：https://github.com/alibaba/apposs_agent
 
