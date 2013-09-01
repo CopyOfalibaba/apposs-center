@@ -1,21 +1,12 @@
 GIT
-  remote: git://github.com/fsword/redis-search.git
-  revision: 73469299647f9a87fbe79a4c35e43abc3f4b2d99
-  specs:
-    redis-search (0.9.0)
-      chinese_pinyin (>= 0.3.0)
-      redis (>= 2.1.1)
-      redis-namespace (>= 1.0.2)
-
-GIT
-  remote: git://github.com/taobao/apposs_file.git
-  revision: 53facaea77ff052f38da3a08ee3080fc28578f64
+  remote: git://github.com/alibaba/apposs_file.git
+  revision: fdd4b4d62284376f2ee1c6a440d3e784e11580f3
   specs:
     apposs_file (0.0.1)
       rails (~> 3.2.3)
 
 GIT
-  remote: git://github.com/taobao/apposs_simple_adapter.git
+  remote: git://github.com/alibaba/apposs_simple_adapter.git
   revision: 27b130ffd3d66e803fa6f46973de738c62565e11
   specs:
     apposs_simple_adapter (0.0.1)
@@ -23,6 +14,15 @@ GIT
       omniauth
       omniauth-google-oauth2
       rails (~> 3.2.5)
+
+GIT
+  remote: git://github.com/fsword/redis-search.git
+  revision: 73469299647f9a87fbe79a4c35e43abc3f4b2d99
+  specs:
+    redis-search (0.9.0)
+      chinese_pinyin (>= 0.3.0)
+      redis (>= 2.1.1)
+      redis-namespace (>= 1.0.2)
 
 GEM
   remote: http://ruby.taobao.org/
